@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin: 20px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+label{
+    padding: 15px;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.input {
+    text-align: center;
+    border-radius: 9px;
+    font-size: 22px;
+    padding: 10px;
+    color: green;
+    height: 30px;
+    width: 250px;
+
+}
